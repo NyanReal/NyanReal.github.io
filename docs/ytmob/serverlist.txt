@@ -1,1 +1,2 @@
 sam.gamebass.net:23333,https://www.youtube.com/@blendergame/streams
+val.gamebass.net:23333,https://www.youtube.com/@blendergame/streams
