@@ -1,2 +1,2 @@
 SAMServer,sam.gamebass.net:23333,https://www.youtube.com/@blendergame/streams
-BASSServer,bsn.gamebass.net:23333,https://www.youtube.com/@blendergame/streams
+BASSServer,val.gamebass.net:23333,https://www.youtube.com/@blendergame/streams
