@@ -1,1 +1,1 @@
-sam.gamebass.net:3369,https://www.youtube.com/@blendergame/streams
+sam.gamebass.net:23333,https://www.youtube.com/@blendergame/streams
